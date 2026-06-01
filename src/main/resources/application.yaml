@@ -4,4 +4,4 @@ spring:
 
 app:
   host-port: 8080
-  region: us-west-updated-scoped
+  region: us-west-updated-scoped1
