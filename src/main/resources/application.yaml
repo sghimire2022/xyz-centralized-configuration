@@ -1,8 +1,7 @@
 spring:
   application:
     name: xyz-centralized-configuration
-  profiles:
-    active: default, dev
+
 app:
   host-port: 8080
   region: us-west
